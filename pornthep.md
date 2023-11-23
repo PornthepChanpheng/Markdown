@@ -1,1 +1,2 @@
-"# Mr.Pornthep Chanpheng" 
+# Mr.Pornthep Chanpheng
+## Computer Science
